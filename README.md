@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Nain57/SmartAutoClicker/blob/master/smartautoclicker/src/main/ic_smart_auto_clicker-playstore.png?raw=true" height="64">
   <h3 align="center">Smart AutoClicker</h3>
-  <p align="center">An open-source auto clicker on images for Android<p>
+  <p align="center">An auto clicker on images for Android<p>
 </p>
 
 <br>
@@ -9,10 +9,6 @@
 ## Introduction
 
 Smart AutoClicker is an Android application allowing to automate repetitive task by clicking automatically for you on the screen. Unlike the regular auto clicker application, the clicks aren't based on timers to execute the clicks. Instead, it allows you to capture an image from a part of your screen and execute the click once this image is detected again.
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.buzbuz.smartautoclicker/)
 
 <br>
 
